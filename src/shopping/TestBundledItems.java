@@ -5,8 +5,6 @@ import org.junit.Test;
 
 import shopping.BundledItem;
 import shopping.Cart;
-import shopping.CartItem;
-import shopping.Product;
 
 import static org.junit.Assert.assertEquals;
 

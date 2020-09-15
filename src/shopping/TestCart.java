@@ -1,13 +1,9 @@
 package shopping;
 
-import java.util.Arrays;
-
 import org.junit.Before;
 import org.junit.Test;
 
 import shopping.Cart;
-import shopping.CartItem;
-import shopping.Product;
 import shopping.RegularItem;
 
 import static org.junit.Assert.assertEquals;
